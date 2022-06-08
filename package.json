@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^10.0.2"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "tsconfig-paths": "^4.0.0"
+  }
+}
