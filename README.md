@@ -1,5 +1,5 @@
 # deel
-deel project
+deel project (Cypress - Javascript)
 
 STEPS 
 
